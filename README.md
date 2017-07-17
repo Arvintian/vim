@@ -1,5 +1,5 @@
-# My vim configs
-使用方法：  
+# 我的vim配置
+使用方法：  
 - 复制vimrc内容到~/.vimrc文件
 - 安装[Vundle](https://github.com/VundleVim/Vundle.vim) 
 - 启动 vim and run :PluginInstall
